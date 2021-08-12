@@ -1,3 +1,3 @@
 # SwiftUIChart
 
-A description of this package.
+Credit: https://github.com/AppPear/ChartView/
