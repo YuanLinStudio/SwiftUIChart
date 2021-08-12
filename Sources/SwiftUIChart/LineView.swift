@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct LineView: View {
+public struct LineView: View {
     
     @Environment(\.colorScheme) var colorScheme: ColorScheme
     
